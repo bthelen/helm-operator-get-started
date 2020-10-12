@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: bthelenpivotal/podinfo
-      tag: stg-xdda8a0x
+      tag: stg-kckgqrke
     replicaCount: 2
     hpa:
       enabled: true
