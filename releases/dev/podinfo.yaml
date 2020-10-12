@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: bthelenpivotal/podinfo
-      tag: dev-fvk4vu5n
+      tag: dev-k9yhjh5f
     replicaCount: 1
     hpa:
       enabled: false
